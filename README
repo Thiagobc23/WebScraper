@@ -1,1 +1,6 @@
 Using Beautiful Soup to mine video game reviews
+
+I'm exploring some methods of scraping with Beautiful Soup and Selenium
+This is not the fastest, or the best implementation. 
+This same process can be done with only one of those two tools and could probably be done faster using 
+xpath instead of searching inside the objects for example, but I wanted something different :) 
